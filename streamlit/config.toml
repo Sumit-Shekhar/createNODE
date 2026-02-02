@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#3498db"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#ebebeb"
+textColor = "#000000"
+font = "sans serif"
+baseFontSize = 13
+baseRadius = "0.4rem"   
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
